@@ -6,67 +6,67 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "pergunta deve ser escrita aqui",
+        enunciado: "como vocêquer que seja sua relação com sua família",
         alternativas: [
             {
-                texto: "alternativa letra A deve ser escrita aqui",
-                afirmacao: "Afirmação gerada se a pessoa escolher a letra A deve estar aqui "
+                texto: "amorosa e cheia de diálogo",
+                afirmacao: "conversas profundas fortalecem o vinculo entre todos"
             },
             {
-                texto: "alternativa letra B deve ser escrita aqui",
-                afirmacao: "Afirmação gerada se a pessoa escolher a letra B deve estar aqui "
+                texto: "desequilibrada e sem respeito",
+                afirmacao: "todos sem liberdade e sem apoio "
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "aual sera sua principal fonte de renda?",
         alternativas: [
             {
-                texto: "",
-                afirmacao: ""
+                texto: "seu proprio negocio",
+                afirmacao: "voce lidera sua empresa e cria algo com impacto real"
             },
             {
-                texto: "",
-                afirmacao: ""
+                texto: "atendende de uma empresa grande",
+                afirmacao: "sua rotina e muit corrida e voce ganha um salario minimo"
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "o que voce quer ensinar para seus filhos, ou familiares",
         alternativas: [
             {
-                texto: "",
-                afirmacao: ""
+                texto: "amor, respeito e empatia",
+                afirmacao: "eles crescem valorizando o lado humano da vida"
             },
             {
-                texto: "",
-                afirmacao: ""
+                texto: "futilidade e ganância",
+                afirmacao: "eles crescem sendo pessoas horriveis e sem coração"
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "onde voce quer estar profissionalmente daqui 10 anos?",
         alternativas: [
             {
-                texto: "",
-                afirmacao: ""
+                texto: "no topo da carreira",
+                afirmacao: "reconhecimento e autoridade no seu setor"
             },
             {
-                texto: "",
-                afirmacao: ""
+                texto: "ainda trabalhando como atendende",
+                afirmacao: "continua ganhando salario minimo e com muitas contas"
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "como voce quer ser lembrado pela sua familia no futuro?",
         alternativas: [
             {
-                texto: "",
-                afirmacao: ""
+                texto: "sempre presente.",
+                afirmacao: "cada momentos importantes voce esteve la"
             },
             {
-                texto: "",
-                afirmacao: ""
+                texto: "distante e arrogante",
+                afirmacao: "nao deu importância a familia, entao eles nao lembram de você"
             }
         ]
     },
